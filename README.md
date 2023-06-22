@@ -13,7 +13,13 @@ Note: to stop the RabbitMQ service run the command
 rabbitmq-service stop
 ```
 
-2.Enter with username:guest and password:guest.
+2.Enter in RabbitMQ in the internet browser:
+
+http://localhost:15672/
+
+Username:guest
+
+Password:guest
 
 3.Create a new queue called "requests".
 
