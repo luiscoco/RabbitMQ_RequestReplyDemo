@@ -22,3 +22,9 @@ rabbitmq-service stop
 5.Set as startup projects both projects in the Visual Studio solution.
 
 6.Build and run the solution.
+
+
+![Request-Response-Pattern](https://github.com/luiscoco/RabbitMQ_RequestReplyDemo/assets/32194879/503aaa54-4fee-45ab-90de-4add67ba27fb)
+
+
+
